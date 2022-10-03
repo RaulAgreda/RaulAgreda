@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=1AF700&width=435&lines=Hi+I'm+Ra%C3%BAl!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=1AF700&width=435&lines=Hi,+I'm+Ra%C3%BAl!)](https://git.io/typing-svg)
  
 ##
 [![ragreda-'s 42 stats](https://badge42.vercel.app/api/v2/cl8t0yqda00600gjpkr4xa0eh/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)

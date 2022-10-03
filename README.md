@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RaulAgreda/RaulAgreda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=1AF700&width=435&lines=Hi+I'm+Ra%C3%BAl!)](https://git.io/typing-svg)
+
+<p style="color=white"><u>This are some of the languages I use:</u></p>
+
